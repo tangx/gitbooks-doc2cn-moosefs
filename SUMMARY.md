@@ -9,10 +9,10 @@
 + [灾难恢复](./moosefs1.6.27_maintenance/chapter04-disaster-recovery.md)
 
 ## MooseFS 2.x 安装向导
-+ [ 简介 ]
-+ [ 准备工作 ]
-+ [ 安装过程 ]
-+ [ 附录 ]
++ [ 简介 ](./moosefs-installation_2.x_zh/ch01-introduction.md)
++ [ 准备工作 ](./moosefs-installation_2.x_zh/ch02-preparation.md)
++ [ 安装过程 ](./moosefs-installation_2.x_zh/ch03-installtion.md)
++ [ 附录 ](./moosefs-installation_2.x_zh/ch04-appendix.md)
 
 ## MooseFS 标签(label)功能
 + [ 标签功能介绍 ]
