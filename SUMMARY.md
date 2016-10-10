@@ -16,7 +16,7 @@
 + [ 安装过程 ](./moosefs-installation_2.x_zh/ch03-installtion.md)
 + [ 附录 ](./moosefs-installation_2.x_zh/ch04-appendix.md)
 
-## MooseFS 标签(label)功能
+## MooseFS 3.0 标签(label)功能
 + [ 标签功能介绍 ]
 + [ 使用标签 ]
 + [ 新mfssetgoal选项 ]
