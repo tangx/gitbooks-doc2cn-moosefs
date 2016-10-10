@@ -8,3 +8,14 @@
   + [ 客户端 ](./moosefs1.6.27_maintenance/chapter03-moosefs-usage.md#客户端)
 + [灾难恢复](./moosefs1.6.27_maintenance/chapter04-disaster-recovery.md)
 
+## MooseFS 2.x 安装向导
++ [ 简介 ]
++ [ 准备工作 ]
++ [ 安装过程 ]
++ [ 附录 ]
+
+## MooseFS 标签(label)功能
++ [ 标签功能介绍 ]
++ [ 使用标签 ]
++ [ 新mfssetgoal选项 ]
++ [ 使用案例 ]
