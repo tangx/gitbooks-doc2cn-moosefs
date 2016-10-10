@@ -199,8 +199,7 @@ Filesystem            Size  Used Avail Use% Mounted on
 
 ### 删除隔离 trash can
 
-```bash
 通过 ` mfsgettrashtime / mfsgettrashtime -r ` 查看隔离时间
 通过 ` mfssettrashtime / mfssettrashtime -r ` 设置隔离时间
-```
+
 

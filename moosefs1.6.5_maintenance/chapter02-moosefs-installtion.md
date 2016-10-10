@@ -28,8 +28,8 @@ moosefs的所有组件都是默认安装的。
 moosefs支持标准的 ` ./configure && make && make install ` 模式
 通过执行选项指定需要安装的组件
 
-访问github并获取 ` moosefs 1.6.27-5 ` 安装脚本
-https://github.com/octowhale/bash-scripts/blob/master/shell_scripts/moosefs_installer.sh
+访问github并获取 ` moosefs 1.6.27-5 ` [安装脚本](https://github.com/octowhale/bash-scripts/blob/master/shell_scripts/moosefs_installer.sh)
+
 
 
 修改脚本中的主要参数
