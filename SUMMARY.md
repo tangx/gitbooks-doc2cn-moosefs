@@ -19,7 +19,18 @@
 + [ 附录 ](./moosefs-installation_2.x_zh/ch04-appendix.md)
 
 ## MooseFS 3.0 标签(label)功能
-+ [ 标签功能介绍 ]
-+ [ 使用标签 ]
-+ [ 新mfssetgoal选项 ]
-+ [ 使用案例 ]
++ 标签功能介绍
+  + [标签功能介绍](moosefs_3.0_labels_manual_zhcn/ch01-introduction/se01-introduction.md)
++ 怎么使用标签 
+  + [机器配置](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se01-preparation.md)
+  + [不含标签的 MooseFS 安装案例](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se02-mfs-installation-without-label.md)
+  + [chunkserver使用标签功能](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se03-labelling-chunkservers.md)
+  + [设置“标签goal类型”](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se04-set-label-goal.md)
+  + [创建、持有、归档](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se05-create-keep-archive.md)
+  + [chunk的创建模式](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se06-chunk-creation-modes.md)
++ 第 3 章 mfssetgoal选项 
+  + [mfssetgoal选项 ](moosefs_3.0_labels_manual_zhcn/ch03-mfssetgoal/se01-mfssetgoal-option.md)
++ 第 4 章 使用案例 
+  + [案例一： 双机房](moosefs_3.0_labels_manual_zhcn/ch04-common-use-scenarios/se01-two-server-rooms.md)
+  + [案例二： SSD和HDD](moosefs_3.0_labels_manual_zhcn/ch04-common-use-scenarios/se02-ssd-and-hdd-drives.md)
+  + [案例三： 双机房与SSD和HDD](moosefs_3.0_labels_manual_zhcn/ch04-common-use-scenarios/se03-two-server-rooms-with-ssd-and-hdd-drives.md)
