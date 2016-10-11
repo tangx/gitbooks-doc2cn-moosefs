@@ -19,9 +19,9 @@
 + [ 附录 ](./moosefs-installation_2.x_zh/ch04-appendix.md)
 
 ## MooseFS 3.0 标签(label)功能
-+ 标签功能介绍
++ 第 1 章 标签功能介绍
   + [标签功能介绍](moosefs_3.0_labels_manual_zhcn/ch01-introduction/se01-introduction.md)
-+ 怎么使用标签 
++ 第 2 章 怎么使用标签 
   + [机器配置](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se01-preparation.md)
   + [不含标签的 MooseFS 安装案例](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se02-mfs-installation-without-label.md)
   + [chunkserver使用标签功能](moosefs_3.0_labels_manual_zhcn/ch02-how-to-use-label/se03-labelling-chunkservers.md)
