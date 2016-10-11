@@ -1,6 +1,7 @@
 # moosefs 中文文档库
 
-[前言](./README.md)
+
+## [前言](./README.md)
 
 ## MooseFS 1.6.27 安装与维护
 + [准备工作](./moosefs1.6.27_maintenance/chapter01-preparation.md)
